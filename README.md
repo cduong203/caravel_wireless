@@ -11,7 +11,7 @@
 
 
 :warning: | Use this sample project for analog user projects. 
-This is still a sample project for testing
+Where are the commits
 
 ---
 
